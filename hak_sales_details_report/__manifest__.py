@@ -2,7 +2,7 @@
 
 {
     'name': "Sales Details Tax Report",
-    'author': 'HAK Solutions',
+    'author': "HAK Tehnologies",
     'category': 'point_of_sale',
     'summary': """Sales Details Tax Report within the particular date period""",
     'website': 'http://www.haksolutions.com',
